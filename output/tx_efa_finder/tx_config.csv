@@ -1,0 +1,48 @@
+key_path,value
+stateCode,TX
+stateName,Texas
+acctName,Texas Education Freedom Accounts
+acctAcronym,TEFA
+acctUrl,https://comptroller.texas.gov/programs/education/esa/
+colorTheme,tx
+defaultCenter.lat,31
+defaultCenter.lng,-99.9018
+enableRegions,True
+enableRegionBoundaries,True
+regionExitZoomThreshold,8
+regions,"[{""id"": ""dallas-fort-worth"", ""name"": ""Dallas-Fort Worth"", ""cities"": [""Dallas"", ""Fort Worth"", ""Plano"", ""Arlington""], ""center"": {""lat"": 32.78, ""lng"": -96.8}, ""zoom"": 9}, {""id"": ""houston-area"", ""name"": ""Houston Area"", ""cities"": [""Houston"", ""Sugar Land"", ""The Woodlands""], ""center"": {""lat"": 29.76, ""lng"": -95.37}, ""zoom"": 9}, {""id"": ""austin-area"", ""name"": ""Austin Area"", ""cities"": [""Austin"", ""Round Rock"", ""Cedar Park""], ""center"": {""lat"": 30.27, ""lng"": -97.74}, ""zoom"": 9}, {""id"": ""san-antonio-area"", ""name"": ""San Antonio Area"", ""cities"": [""San Antonio"", ""New Braunfels""], ""center"": {""lat"": 29.42, ""lng"": -98.49}, ""zoom"": 9}, {""id"": ""el-paso-area"", ""name"": ""El Paso Area"", ""cities"": [""El Paso""], ""center"": {""lat"": 31.76, ""lng"": -106.49}, ""zoom"": 10}, {""id"": ""rio-grande-valley"", ""name"": ""Rio Grande Valley"", ""cities"": [""McAllen"", ""Brownsville"", ""Harlingen""], ""center"": {""lat"": 26.2, ""lng"": -98.23}, ""zoom"": 9}, {""id"": ""south-texas"", ""name"": ""South Texas"", ""cities"": [""Corpus Christi"", ""Laredo"", ""Victoria""], ""center"": {""lat"": 27.8, ""lng"": -97.4}, ""zoom"": 8}, {""id"": ""east-texas"", ""name"": ""East Texas"", ""cities"": [""Tyler"", ""Longview"", ""Beaumont""], ""center"": {""lat"": 32.35, ""lng"": -94.7}, ""zoom"": 8}, {""id"": ""central-texas"", ""name"": ""Central Texas"", ""cities"": [""Waco"", ""Bryan/College Station"", ""Killeen""], ""center"": {""lat"": 31.1, ""lng"": -97.35}, ""zoom"": 8}, {""id"": ""west-texas"", ""name"": ""West Texas"", ""cities"": [""Lubbock"", ""Midland"", ""Odessa"", ""Abilene""], ""center"": {""lat"": 32, ""lng"": -101.8}, ""zoom"": 7}, {""id"": ""north-texas"", ""name"": ""North Texas"", ""cities"": [""Wichita Falls"", ""Sherman"", ""Denison""], ""center"": {""lat"": 33.9, ""lng"": -98.5}, ""zoom"": 8}, {""id"": ""panhandle"", ""name"": ""Panhandle"", ""cities"": [""Amarillo""], ""center"": {""lat"": 35.2, ""lng"": -101.83}, ""zoom"": 8}]"
+boundingBox.north,36.5
+boundingBox.south,25.8
+boundingBox.east,-93.5
+boundingBox.west,-106.6
+vendorBounds.north,37.5
+vendorBounds.south,24.8
+vendorBounds.east,-92.5
+vendorBounds.west,-107.6
+DEFAULT_SEARCH_RADIUS,25
+mapsApiKey,
+mapId,DEMO_MAP_ID
+showSearchMarker,True
+showMapLegend,False
+defaultZoom,4
+searchZoom,10
+defaultVendorType,Schools
+enablePreKFilter,True
+showNewBadge,False
+showAltOptions,False
+enableEFABadges,False
+VENDOR_TYPE_ORDER,"[""Schools"", ""Tutoring"", ""Therapy""]"
+COST_OPTIONS,[]
+vendorTypeDescriptions.Schools,Below are schools participating in the TEFA program that will accept TEFA funds for the 2026-27 school year. More schools and providers will be added regularly.
+schoolTypeLabels.efaApproved,TEFA Participating
+schoolTypeLabels.efaPending,TEFA Eligible
+logoSource,../data/tx/icon.png
+logo.href,https://comptroller.texas.gov/programs/education/esa/
+logo.altText,Texas Education Freedom Accounts
+contact.subtitle,We're here to help you navigate your school options in Texas
+contact.email,help.tx@withodyssey.com
+contact.airtableLinks.adminForm,https://outbridge.org/t/ifkT8QLneCus
+contact.airtableLinks.vendorForm,N/A
+contact.showAdminSection,True
+contact.showVendorSection,False
+footer.aboutText,"The <strong>TEFA school finder</strong> is an official resource of the Texas Comptroller of Public Accounts, developed in partnership with Outschool.org and Odyssey to help families explore their K-12 education options."

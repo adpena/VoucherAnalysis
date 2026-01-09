@@ -1,0 +1,13 @@
+id,name,cities,center_lat,center_lng,zoom
+dallas-fort-worth,Dallas-Fort Worth,Dallas; Fort Worth; Plano; Arlington,32.78,-96.8,9
+houston-area,Houston Area,Houston; Sugar Land; The Woodlands,29.76,-95.37,9
+austin-area,Austin Area,Austin; Round Rock; Cedar Park,30.27,-97.74,9
+san-antonio-area,San Antonio Area,San Antonio; New Braunfels,29.42,-98.49,9
+el-paso-area,El Paso Area,El Paso,31.76,-106.49,10
+rio-grande-valley,Rio Grande Valley,McAllen; Brownsville; Harlingen,26.2,-98.23,9
+south-texas,South Texas,Corpus Christi; Laredo; Victoria,27.8,-97.4,8
+east-texas,East Texas,Tyler; Longview; Beaumont,32.35,-94.7,8
+central-texas,Central Texas,Waco; Bryan/College Station; Killeen,31.1,-97.35,8
+west-texas,West Texas,Lubbock; Midland; Odessa; Abilene,32,-101.8,7
+north-texas,North Texas,Wichita Falls; Sherman; Denison,33.9,-98.5,8
+panhandle,Panhandle,Amarillo,35.2,-101.83,8
